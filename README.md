@@ -21,12 +21,6 @@
 
 📚 Currently honing my skills in **React** **TypeScript** **JavaScript** **Electron** **NodeJS** **Express** **Socket.io**  while keeping a watchful eye on the ever-evolving tech landscape.
 
-### ⚙️ &nbsp;Timsteven's GitHub Analytics
-
-<a href="https://github.com/timsteven156">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=timsteven156&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-</a>
-
 <h3 align="left">Languages and Tools I use:</h3>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
