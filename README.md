@@ -1,12 +1,3 @@
-<a href="https://twitter.com/shellstr0m">
-  <img align="left" alt="Timsteven's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
-</a>
-<a href="https://t.me/Timsteven5402">
-  <img align="left" alt="Timsteven's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
-</a>
-
-<br><br>
-
 ### 👋 Hey there! I'm TimSteven
 
 🚀 Exploring the universe of coding with languages and frameworks like **React, TypeScript, JavaScript, Electron, Node.js, Express, Socket.io, Kotlin**, and more, I'm on a mission to craft elegant solutions.
