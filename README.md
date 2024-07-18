@@ -2,12 +2,6 @@
 
 🚀 Exploring the universe of coding with languages and frameworks like **React, TypeScript, JavaScript, Electron, Node.js, Express, Socket.io, Kotlin**, and more, I'm on a mission to craft elegant solutions.
 
-💡 A curious mind with a passion for innovation, I'm deeply intrigued by Android Kernel Development and the vast possibilities of Cloud Computing.
-
-🌟 Delving into Open Source projects like VirtuTimstevenposed and exploring Java hooking methods, I'm always seeking new challenges and opportunities.
-
-💪 With a strong determination to make an impact, I'm constantly pushing boundaries and striving for excellence.
-
 ✉️ Reach out to me via email at **timsteven156@gmail.com** to collaborate on exciting ventures.
 
 📚 Currently honing my skills in **React** **TypeScript** **JavaScript** **Electron** **NodeJS** **Express** **Socket.io**  while keeping a watchful eye on the ever-evolving tech landscape.
