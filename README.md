@@ -16,7 +16,7 @@
 - My workflow dotfiles are [Hyprland 🙂](https://github.com/ALEX5402/dotfiles)
 - My workflow config files for [Kde 🙂](https://github.com/ALEX5402/Kdesettings)
 
-### ⚙️ &nbsp;Alex's GitHub Analytics
+### ⚙️ &nbsp;Timsteven's GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/alex5402">
